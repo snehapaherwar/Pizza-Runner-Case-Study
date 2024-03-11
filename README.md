@@ -24,4 +24,5 @@ All datasets are located within the pizza_runner database schema. Please include
 ![123](https://github.com/snehapaherwar/Pizza-Runner-Case-Study/assets/141404143/0cdef7f0-0084-4e97-af7d-52ff56ec8ba8)
 
 
-
+**Dataset**
+https://8weeksqlchallenge.com/case-study-2/
